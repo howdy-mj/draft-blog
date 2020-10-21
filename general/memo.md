@@ -14,3 +14,11 @@
  - 테스트 가능 여부
 
 
+---
+
+개인 블로그 
+
+- [허밍웨이](https://blog.naver.com/PostList.nhn?blogId=bkcaller)
+
+
+- [freeCodeCamp News](https://www.freecodecamp.org/news/)
